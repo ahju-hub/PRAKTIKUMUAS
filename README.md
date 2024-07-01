@@ -1,3 +1,8 @@
+|*Nama|NIM|Kelas|Matkul*|
+|----|---|-----|------|
+|Siti Nurrohimah Ahju|312310285|TI.23.A5|Basis Data|
+
+
 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin
 oleh Manajer dengan Nama 'Rika'
 
